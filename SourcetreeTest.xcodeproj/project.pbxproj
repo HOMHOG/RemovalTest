@@ -15,6 +15,7 @@
 		C725201D21EC62D600726B32 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C725201C21EC62D600726B32 /* main.m */; };
 		C725202721EC62D600726B32 /* SourcetreeTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C725202621EC62D600726B32 /* SourcetreeTestTests.m */; };
 		C725203221EC62D600726B32 /* SourcetreeTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C725203121EC62D600726B32 /* SourcetreeTestUITests.m */; };
+		C7629BAF2268A8D6007A67FA /* zzz.m in Sources */ = {isa = PBXBuildFile; fileRef = C7629BAE2268A8D6007A67FA /* zzz.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		C725202D21EC62D600726B32 /* SourcetreeTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SourcetreeTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C725203121EC62D600726B32 /* SourcetreeTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SourcetreeTestUITests.m; sourceTree = "<group>"; };
 		C725203321EC62D600726B32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7629BAD2268A8D6007A67FA /* zzz.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zzz.h; sourceTree = "<group>"; };
+		C7629BAE2268A8D6007A67FA /* zzz.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = zzz.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				C725201821EC62D600726B32 /* LaunchScreen.storyboard */,
 				C725201B21EC62D600726B32 /* Info.plist */,
 				C725201C21EC62D600726B32 /* main.m */,
+				C7629BAD2268A8D6007A67FA /* zzz.h */,
+				C7629BAE2268A8D6007A67FA /* zzz.m */,
 			);
 			path = SourcetreeTest;
 			sourceTree = "<group>";
@@ -264,6 +269,7 @@
 			files = (
 				C725201221EC62D400726B32 /* ViewController.m in Sources */,
 				C725201D21EC62D600726B32 /* main.m in Sources */,
+				C7629BAF2268A8D6007A67FA /* zzz.m in Sources */,
 				C725200F21EC62D400726B32 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
