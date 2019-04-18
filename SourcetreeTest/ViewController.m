@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property (nonatomic,assign) float test;
+
 @end
 
 @implementation ViewController
@@ -20,6 +22,7 @@
     
     ///!!!: 这是分支1的改动
     
+    NSLog(@"--->%f",_test);
     
     ///!!!: 更改3
     
