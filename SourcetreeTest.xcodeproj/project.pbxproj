@@ -10,6 +10,7 @@
 		8DBA93B1226DBC79001BB1D8 /* iMac-1.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DBA93B0226DBC79001BB1D8 /* iMac-1.m */; };
 		8DBA93B4226DBCA0001BB1D8 /* iMac-2.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DBA93B3226DBCA0001BB1D8 /* iMac-2.m */; };
 		8DBA93B7226DBDF5001BB1D8 /* iMac-3.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DBA93B6226DBDF5001BB1D8 /* iMac-3.m */; };
+		8DBA93BA226DBE17001BB1D8 /* iMac-4.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DBA93B9226DBE17001BB1D8 /* iMac-4.m */; };
 		C725200F21EC62D400726B32 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C725200E21EC62D400726B32 /* AppDelegate.m */; };
 		C725201221EC62D400726B32 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C725201121EC62D400726B32 /* ViewController.m */; };
 		C725201521EC62D400726B32 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C725201321EC62D400726B32 /* Main.storyboard */; };
@@ -44,6 +45,8 @@
 		8DBA93B3226DBCA0001BB1D8 /* iMac-2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "iMac-2.m"; sourceTree = "<group>"; };
 		8DBA93B5226DBDF5001BB1D8 /* iMac-3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iMac-3.h"; sourceTree = "<group>"; };
 		8DBA93B6226DBDF5001BB1D8 /* iMac-3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "iMac-3.m"; sourceTree = "<group>"; };
+		8DBA93B8226DBE17001BB1D8 /* iMac-4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iMac-4.h"; sourceTree = "<group>"; };
+		8DBA93B9226DBE17001BB1D8 /* iMac-4.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "iMac-4.m"; sourceTree = "<group>"; };
 		C725200A21EC62D400726B32 /* SourcetreeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SourcetreeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C725200D21EC62D400726B32 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C725200E21EC62D400726B32 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -125,6 +128,8 @@
 				8DBA93B3226DBCA0001BB1D8 /* iMac-2.m */,
 				8DBA93B5226DBDF5001BB1D8 /* iMac-3.h */,
 				8DBA93B6226DBDF5001BB1D8 /* iMac-3.m */,
+				8DBA93B8226DBE17001BB1D8 /* iMac-4.h */,
+				8DBA93B9226DBE17001BB1D8 /* iMac-4.m */,
 			);
 			path = SourcetreeTest;
 			sourceTree = "<group>";
@@ -281,6 +286,7 @@
 				8DBA93B7226DBDF5001BB1D8 /* iMac-3.m in Sources */,
 				C725201221EC62D400726B32 /* ViewController.m in Sources */,
 				C725201D21EC62D600726B32 /* main.m in Sources */,
+				8DBA93BA226DBE17001BB1D8 /* iMac-4.m in Sources */,
 				C725200F21EC62D400726B32 /* AppDelegate.m in Sources */,
 				8DBA93B1226DBC79001BB1D8 /* iMac-1.m in Sources */,
 			);
