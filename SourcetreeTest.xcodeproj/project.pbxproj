@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8DBA93B1226DBC79001BB1D8 /* iMac-1.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DBA93B0226DBC79001BB1D8 /* iMac-1.m */; };
 		C725200F21EC62D400726B32 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C725200E21EC62D400726B32 /* AppDelegate.m */; };
 		C725201221EC62D400726B32 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C725201121EC62D400726B32 /* ViewController.m */; };
 		C725201521EC62D400726B32 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C725201321EC62D400726B32 /* Main.storyboard */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8DBA93AF226DBC79001BB1D8 /* iMac-1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iMac-1.h"; sourceTree = "<group>"; };
+		8DBA93B0226DBC79001BB1D8 /* iMac-1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "iMac-1.m"; sourceTree = "<group>"; };
 		C725200A21EC62D400726B32 /* SourcetreeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SourcetreeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C725200D21EC62D400726B32 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C725200E21EC62D400726B32 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -115,6 +118,8 @@
 				C725201C21EC62D600726B32 /* main.m */,
 				C7629BAD2268A8D6007A67FA /* zzz.h */,
 				C7629BAE2268A8D6007A67FA /* zzz.m */,
+				8DBA93AF226DBC79001BB1D8 /* iMac-1.h */,
+				8DBA93B0226DBC79001BB1D8 /* iMac-1.m */,
 			);
 			path = SourcetreeTest;
 			sourceTree = "<group>";
@@ -271,6 +276,7 @@
 				C725201D21EC62D600726B32 /* main.m in Sources */,
 				C7629BAF2268A8D6007A67FA /* zzz.m in Sources */,
 				C725200F21EC62D400726B32 /* AppDelegate.m in Sources */,
+				8DBA93B1226DBC79001BB1D8 /* iMac-1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
